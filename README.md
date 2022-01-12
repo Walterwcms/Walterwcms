@@ -6,7 +6,6 @@
 
 <html>
   <head>
-    <title>Canvas tutorial</title>
     <script type="text/javascript">
       function draw(){
         var canvas = document.getElementById('tutorial');
