@@ -4,9 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walterwcms&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<html>
 <head>
-  <style>
+ 
+</head>
+<body>
+
+ <style>
     /* Estilos CSS */
     .animation-container {
       width: 100px;
@@ -31,10 +35,6 @@
       }
     }
   </style>
-</head>
-<body>
-
-
   <h2>Demonstração</h2>
   <div class="animation-container">
     <div class="animated-element"></div>
